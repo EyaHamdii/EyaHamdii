@@ -4,7 +4,7 @@
 <img alt="Coding" align="right" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" />
 
 
-- 🌱 I’m currently learning the java stack
+- 🌱 I’m currently working on a JAVA project
 
 - 📫 How to reach me **eyahamdi184@gmail.com**
 
